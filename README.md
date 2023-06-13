@@ -20,8 +20,7 @@
 - PySpark
 
 ### Также был учебный опыт с такими технологиями как :
-- Docker
-- Django и другими технологиями для python разработки.
+- Docker, Django, Ubuntu, Bash, PyCharm и другими технологиями для python разработки.
 ## Мои учебные проекты:
 * Machine Learning, EDA, Feature engineering. [Лабораторная работа по блоку Работа с признаками и построение моделей](https://github.com/gosha22008/Laboratory_feature_selection)
 * SQL(postgre). [Итогова работа по блоку SQL](https://github.com/gosha22008/final_sql)
