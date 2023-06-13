@@ -1,8 +1,27 @@
 # Привет! 
 ## Я Юрий Егошин, junior Data Science.
 
-## Мой стэк технологий: Python, Numpy, Pandas, Sklearn, PostgreSQL, Matplotlib, Seaborn, алгоритмы классического ML, Catboost/Xgboost/LightGBM. 
+## Мой стэк технологий: 
+- Python
+- Библиотеки для анализа данных и EDA(exploratory data analysis): 
+    - Numpy
+    - Pandas
+    - Sklearn
+    - Matplotlib
+    - Seaborn
+    - scipy
+- SQL
+    - PostgreSQL
+- Алгоритмы классического ML (в том числе такие алгоритмы):
+    - Catboost
+    - Xgboost
+    - LightGBM
+- Git
+- PySpark
 
+### Также был учебный опыт с такими технологиями как :
+- Docker
+- Django и другими технологиями для python разработки.
 ## Мои учебные проекты:
 * Machine Learning, EDA, Feature engineering. [Лабораторная работа по блоку Работа с признаками и построение моделей](https://github.com/gosha22008/Laboratory_feature_selection)
 * SQL(postgre). [Итогова работа по блоку SQL](https://github.com/gosha22008/final_sql)
@@ -19,3 +38,10 @@
 
 
 ## Сертификаты Нетологии
+* [Работа с признаками и построение моделей](https://github.com/gosha22008/gosha22008/blob/master/certificate_feml.pdf)
+* [SQL и получение данных](https://github.com/gosha22008/gosha22008/blob/master/certificate_sql.pdf)
+* [Аналитика больших данных](https://github.com/gosha22008/gosha22008/blob/master/certificate_big_data.pdf)
+* [Git - система контроля версий](https://github.com/gosha22008/gosha22008/blob/master/certificate_git.pdf)
+* [Основы языка программирования Python](https://github.com/gosha22008/gosha22008/blob/master/certificate_basic_python.pdf)
+* [Python в web разработке](https://github.com/gosha22008/gosha22008/blob/master/certificate_python_web.pdf)
+* [Python разработчик с нуля](https://github.com/gosha22008/gosha22008/blob/master/certificate_python.pdf)
