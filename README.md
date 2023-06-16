@@ -16,6 +16,7 @@
     - Catboost
     - Xgboost
     - LightGBM
+- Библиотека Optuna для автоматической оптимизации гиперпараметров модели.
 - Git
 - PySpark
 
