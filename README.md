@@ -23,6 +23,7 @@
 ### Также был учебный опыт с такими технологиями как :
 - Docker, Django, Ubuntu, Bash, PyCharm и другими технологиями для python разработки.
 ## Мои учебные проекты:
+* Tensorlow. [Линейный классификатор на Tensoflow](https://github.com/gosha22008/Linear_classifier_on_TensorFlowFlow)
 * Machine Learning, EDA, Feature engineering. [Лабораторная работа по блоку Работа с признаками и построение моделей](https://github.com/gosha22008/Laboratory_feature_selection)
 * SQL(postgre). [Итогова работа по блоку SQL](https://github.com/gosha22008/final_sql)
 * Spark(Pyspark), Google Sheets, Python. [Итоговая работа по блоку Аналитика больших данных](https://github.com/gosha22008/Final_work_big_data)
