@@ -49,3 +49,6 @@
 * [Основы языка программирования Python](https://github.com/gosha22008/gosha22008/blob/master/certificate_basic_python.pdf)
 * [Python в web разработке](https://github.com/gosha22008/gosha22008/blob/master/certificate_python_web.pdf)
 * [Python разработчик с нуля](https://github.com/gosha22008/gosha22008/blob/master/certificate_python.pdf)
+
+## Другие сертификаты
+* [Введение в нейронные сети Keras/Tensorflow](https://github.com/gosha22008/gosha22008/blob/master/stepik_certificate_introduction_to_nn_keras_tensorflow.pdf)
