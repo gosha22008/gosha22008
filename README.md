@@ -24,7 +24,8 @@
 ### Также был учебный опыт с такими технологиями как :
 - Docker, Django, Ubuntu, Bash, PyCharm и другими технологиями для python разработки.
 ## Мои учебные проекты:
-* Unet модель. [Segmentation Cityscapes image pairs](https://www.kaggle.com/code/gosha22008/segmentation-unet-model)
+* Детекция объектов Yolo. [Detected fruit Yolov3](https://www.kaggle.com/code/gosha22008/detected-fruit-yolov3)
+* Сегментация объектов Unet модель. [Segmentation Cityscapes image pairs](https://www.kaggle.com/code/gosha22008/segmentation-unet-model)
 * RNN модель. [Прогноз временного ряда airline-passengers](https://github.com/gosha22008/Introduction_to_Neural_Networks_Keras_Tensorflow/tree/master/HW_Introduction_to_Neural_Networks_Keras_Tensorflow_RNN)
 * Tensorlow. [Линейный классификатор на Tensoflow](https://github.com/gosha22008/Linear_classifier_on_TensorFlowFlow)
 * Machine Learning, EDA, Feature engineering. [Лабораторная работа по блоку Работа с признаками и построение моделей](https://github.com/gosha22008/Laboratory_feature_selection)
