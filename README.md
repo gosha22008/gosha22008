@@ -1,6 +1,6 @@
 # Привет! 
-## Я Юрий Егошин, junior Data Scientist.
-
+## Я Юрий Егошин, junior ML инженер.
+В данный момент являюсь студентом 1-ого курса Магистратуры Икусственный Интеллект ФКН ВШЭ.
 ## Мой стэк технологий: 
 - Python
 - Библиотеки для анализа данных и EDA(exploratory data analysis): 
@@ -21,9 +21,10 @@
 - PySpark
 - Немного нейросетей
 
-### Также был учебный опыт с такими технологиями как :
+### Также есть учебный опыт с такими технологиями как :
 - Docker, Django, Ubuntu, Bash, PyCharm и другими технологиями для python разработки.
 ## Мои учебные проекты:
+* Годовой проект в составе группы. Детектирование аномалий в данных. Антифрод [Годовой проект](https://github.com/gosha22008/year_project_HSE)
 * Детекция объектов Yolo. [Detected fruit Yolov3](https://www.kaggle.com/code/gosha22008/detected-fruit-yolov3)
 * Сегментация объектов Unet модель. [Segmentation Cityscapes image pairs](https://www.kaggle.com/code/gosha22008/segmentation-unet-model)
 * RNN модель. [Прогноз временного ряда airline-passengers](https://github.com/gosha22008/Introduction_to_Neural_Networks_Keras_Tensorflow/tree/master/HW_Introduction_to_Neural_Networks_Keras_Tensorflow_RNN)
